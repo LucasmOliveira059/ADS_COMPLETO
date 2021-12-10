@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633272103 source:c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\fatorialrecursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

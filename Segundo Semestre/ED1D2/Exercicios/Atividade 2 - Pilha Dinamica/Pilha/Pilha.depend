@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1636945404 source:d:\estruturadedados\atividade 2 - pilha dinamica\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+
+1636945424 d:\estruturadedados\atividade 2 - pilha dinamica\pilha\pilha.h
+
+1636945490 source:d:\estruturadedados\atividade 2 - pilha dinamica\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Pilha.h"
+
+1637360725 source:c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\atividade 2 - pilha dinamica\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Pilha.h"
+
+1636945424 c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\atividade 2 - pilha dinamica\pilha\pilha.h
+
+1636945404 source:c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\atividade 2 - pilha dinamica\pilha\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	"Pilha.h"
+

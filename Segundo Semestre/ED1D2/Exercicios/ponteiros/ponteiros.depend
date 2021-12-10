@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1631473392 source:c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\ponteiros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

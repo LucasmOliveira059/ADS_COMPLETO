@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626313558 source:c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\apod1\codeblock\lista2\exercicio11\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	<stdbool.h>
+

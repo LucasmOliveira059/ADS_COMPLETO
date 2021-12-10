@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633200939 source:c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\aulamemoria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

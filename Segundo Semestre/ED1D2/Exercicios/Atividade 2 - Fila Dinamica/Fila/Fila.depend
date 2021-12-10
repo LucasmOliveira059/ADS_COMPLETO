@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1636945036 source:d:\estruturadedados\atividade 2 - fila dinamica\fila\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1636945065 d:\estruturadedados\atividade 2 - fila dinamica\fila\fila.h
+
+1636945096 source:d:\estruturadedados\atividade 2 - fila dinamica\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Fila.h"
+
+1636945036 source:c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\atividade 2 - fila dinamica\fila\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"Fila.h"
+
+1636945065 c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\atividade 2 - fila dinamica\fila\fila.h
+
+1636945096 source:c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\atividade 2 - fila dinamica\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Fila.h"
+

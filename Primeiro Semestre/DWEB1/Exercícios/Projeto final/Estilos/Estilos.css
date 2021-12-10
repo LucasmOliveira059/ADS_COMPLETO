@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
+
+html, body{
+margin: 0;
+padding: 0;
+font-size: 1rem;
+font-weight: bold;
+text-align: center;
+color: rgb(255, 255, 255);
+scroll-behavior: smooth;
+}
+h1{
+    font-family: 'Big Shoulders Stencil Display';
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 49);
+
+}
+header{
+    top: 0;
+    background-color: rgba(0, 0, 0, 75%);
+    width: 100%;
+    height: 10vh;
+    text-align: center;
+    justify-content: center;
+    z-index: 1;
+    position: fixed;
+    display: flex;
+    left: 0;
+    right: 0;
+    
+}
+
+ul{  
+    list-style: url("../Ícones/holyday-halloween-knife-bloody-kill_108310.png"); 
+    display: inherit;
+    justify-content: space-around;
+    width: inherit;
+    height: inherit;  
+    flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
+    font-size: 1rem;
+    color: floralwhite;
+}
+#assinatura{
+    margin-top: 10px;
+    padding: 5%;
+}
+#p_txt_troca{
+    font-family: 'Pinyon Script', cursive;
+    color: rgba(231, 34, 34, 0.986);
+    font-size: 1.5rem;
+    font-weight: bolder;
+
+}
+
+main{
+    background-color:rgb(14, 14, 49);
+    top: 10px;
+    width: 100%;
+}
+
+img{
+    width: 40%;
+}
+#img_audio{
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+.principal{
+    display: grid;
+    height: 100%;
+    margin: 2rem;
+    gap: 1rem;
+    padding: 1rem;
+    justify-content: space-around;
+    background-image: url(../Imagens/Wavey-Fingerprint.svg);
+   /* background-size: cover; */
+}
+video{
+   width:  65%;
+}
+iframe{
+    height: 90%;
+}
+
+.Container{
+    display: grid;
+    margin: 2rem;
+    gap: 1rem;
+    padding: 1rem;
+    justify-content: inherit;
+    background-color: darkslategray;
+    box-sizing: border-box;
+}
+
+.Dupla{
+    grid-template-columns: repeat(2, 1fr);
+}
+.Quatro{
+    grid-template-columns: repeat(4, 1fr);
+}
+
+input{
+    margin: 8px 5px;
+    border: black;
+    padding: 0%;
+    justify-content: center;
+}
+#txt_display{
+    font-family: 'Big Shoulders Stencil Display';
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    background-color: snow;
+}
+
+#bt_troca_txt{
+    font-family: 'fantasy', cursive;
+    color: indigo;
+    font-weight: bold;
+    padding: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+
+}
+#bt_troca_txt:hover{
+    padding: 1%;
+    background-color: rgba(255, 255, 20, 75%);
+}
+#sustos{
+    display: flex;
+
+}
+#figuras{
+    display: inline-block;
+}
+.figura{
+    width: 20%;
+    border-radius: 30%;
+    padding: 10px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 20%);
+    transition: all 0.7s ease;
+
+}
+.quadro_animado{
+    width: 50%;
+    border-radius: 15%;
+    animation-duration: 20s;
+    animation-iteration-count: infinite;
+    animation-name: muda_susto;
+    background-size: cover;
+}
+    @keyframes muda_susto{
+
+        0%{ background-image: url("../Imagens/Terror6.jpg");}
+        25%{ background-image: url("../Imagens/Terror8.jpg");}
+        50%{ background-image: url("../Imagens/Terror3.jpg");}
+        75%{ background-image: url("../Imagens/Terror5.jpeg");}
+        100%{ background-image: url("../Imagens/Terror6.jpg");}
+    }
+
+.div_calc{
+    margin: auto;
+    width: 30%;
+    display: grid;
+    gap: 0.5rem;
+    padding: 1rem;
+    justify-content: center;
+    box-sizing: border-box;
+    align-items: center;
+}
+#div_calc{
+    grid-template-areas:    "d d d"
+                            "n7 n8 n9"
+                            "n4 n5 n6"
+                            "n1 n2 n3"
+                            "nb n0 nf";
+}
+#txt_display{
+    grid-area: d;
+    text-align: right;
+}
+#bt_0{
+    grid-area: n0;
+}
+#bt_1{
+    grid-area: n1;
+}
+#bt_2{
+    grid-area: n2;
+}
+#bt_3{
+    grid-area: n3;
+}
+#bt_4{
+    grid-area: n4;
+}
+#bt_5{
+    grid-area: n5;
+}
+#bt_6{
+    grid-area: n6;
+}
+#bt_7{
+    grid-area: n7;
+}
+#bt_8{
+    grid-area: n8;
+}
+#bt_9{
+    grid-area: n9;
+}
+#bt_bar{
+    grid-area: nb;
+}
+#bt_fim{
+    grid-area: nf;
+}
+.botoes, .botao{
+    width: 50%;
+    cursor: pointer;
+}
+.botoes:hover{
+    background-color: rgb(255, 255, 255);
+}
+.botao:hover{
+    background-color: rgb(255, 255, 255);
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+.figura:hover{
+            border-radius: 0%;
+}
+#div_result{
+font-family:'Times New Roman', sans-serif;
+font-weight: normal;
+font-size: 1.5rem;
+color: rgb(250, 64, 64);
+text-align: center;
+top: 10px;
+padding: 2px;
+margin-top: 40px
+
+}
+    @media(max-width: 760px){
+
+        img{
+            width: 30%;
+        }
+        header{
+            font-size: 1rem;
+        }
+        .Container{
+            height: 40vh;
+            width: 100%;
+            display: flexbox;
+            position: relative;
+            float: inherit;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        video{
+            height: 7vh;
+            width: 7vh;
+        }
+        header{
+            display: flex;
+            float:inline-start;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            height: 26vh;
+
+        }
+        .principal{
+            height: 100%;
+            margin-top: 26vh;
+            position: relative;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            
+
+        }
+        .Quatro{
+            display: flexbox;
+            float: inline-start;
+            flex-wrap: wrap;
+            position: relative;
+            align-items: center;
+            padding: 4vh auto;
+        }
+        .Dupla{
+            grid-template-columns: 1fr;
+        }
+        #img_audio{
+            height: 7vh;
+            width: 7vh;
+        }
+        ul{
+            justify-content: center;
+            display: grid;
+            flex-wrap: wrap;
+        }
+        iframe{
+            height: 7vh;
+            width: 7vh;
+        }
+        .quadro_animado{
+            height: 7vh;
+            width: 7vh;
+        }
+    }

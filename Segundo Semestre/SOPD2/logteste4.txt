@@ -1,0 +1,41 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+47 : Processo 4946556 alocacao de blocos no pagefile
+47 : Processo 4946556 HwPF - Executável0
+47 : Processo 4946556 HwPF - Executável1
+47 : Processo 4946556 HwPF - Executável2
+47 : Processo 4946556 HwPF - Executável3
+47 : Processo 4946556 HwPF - Executável4
+47 : Processo 4946556 criado
+47 : Processo 4946674 alocacao de blocos no pagefile
+47 : Processo 4946674 HwPF - Executável0
+47 : Processo 4946674 HwPF - Executável1
+47 : Processo 4946674 HwPF - Executável2
+47 : Processo 4946674 HwPF - Executável3
+47 : Processo 4946674 HwPF - Executável4
+47 : Processo 4946674 criado
+48 : Processo 4946782 alocacao de blocos no pagefile
+48 : Processo 4946782 HwPF - Executável0
+48 : Processo 4946782 HwPF - Executável1
+48 : Processo 4946782 HwPF - Executável2
+48 : Processo 4946782 HwPF - Executável3
+48 : Processo 4946782 HwPF - Executável4
+48 : Processo 4946782 criado
+48 : Processo 4946906 alocacao de blocos no pagefile
+48 : Processo 4946906 HwPF - Executável0
+48 : Processo 4946906 HwPF - Executável1
+48 : Processo 4946906 HwPF - Executável2
+48 : Processo 4946906 HwPF - Executável3
+48 : Processo 4946906 HwPF - Executável4
+48 : Processo 4946906 criado
+48 : Processo 4947015 alocacao de blocos no pagefile
+48 : Processo 4947015 HwPF - Executável0
+48 : Lista de pags livres menor que80%
+48 : Iniciando Swap
+48 : Processo 4946906 pronto outswapped
+48 : Processo 4947015 HwPF - Executável1
+48 : Processo 4947015 HwPF - Executável2
+48 : Processo 4947015 HwPF - Executável3
+48 : Processo 4947015 HwPF - Executável4
+48 : Processo 4947015 criado
+48 : Processo 4946556 Pronto -> Exec

@@ -1,0 +1,73 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+38 : Processo 1612986 alocacao de blocos no pagefile
+38 : Processo 1612986 criado
+38 : Processo 1613098 alocacao de blocos no pagefile
+38 : Processo 1613098 criado
+38 : Processo 1613208 alocacao de blocos no pagefile
+38 : Processo 1613208 criado
+38 : Processo 1613318 alocacao de blocos no pagefile
+38 : Processo 1613318 criado
+38 : Processo 1613430 alocacao de blocos no pagefile
+38 : Processo 1613430 criado
+39 : Processo 1612986 Pronto -> Exec
+40 : Processo 1612986 Exec -> Page Fault0
+41 : Processo 1613098 Pronto -> Exec
+42 : Processo 1613098 Exec -> Page Fault0
+43 : Processo 1613208 Pronto -> Exec
+44 : Processo 1613208 Exec -> Page Fault0
+45 : Processo 1613318 Pronto -> Exec
+46 : Processo 1613318 Exec -> Page Fault0
+47 : Processo 1613430 Pronto -> Exec
+48 : Processo 1613430 Exec -> Page Fault0
+50 : Processo 1612986 HwPF - Executável0
+51 : Processo 1612986 Pronto -> Exec
+61 : Processo 1613098 HwPF - Executável0
+68 : Processo 1612986 Exec -> Page Fault1
+69 : Processo 1613098 Pronto -> Exec
+72 : Processo 1613208 HwPF - Executável0
+84 : Processo 1613318 HwPF - Executável0
+86 : Processo 1613098 Exec -> Page Fault1
+87 : Processo 1613208 Pronto -> Exec
+95 : Processo 1613430 HwPF - Executável0
+104 : Processo 1613208 Exec -> Page Fault1
+105 : Processo 1613318 Pronto -> Exec
+106 : Processo 1612986 HwPF - Executável1
+116 : Processo 1613098 HwPF - Executável1
+122 : Processo 1613318 Exec -> Page Fault1
+123 : Processo 1613430 Pronto -> Exec
+127 : Processo 1613208 HwPF - Executável1
+138 : Processo 1613318 HwPF - Executável1
+140 : Processo 1613430 Exec -> Page Fault1
+141 : Processo 1612986 Pronto -> Exec
+150 : Processo 1613430 HwPF - Executável1
+158 : Processo 1612986 Exec -> Page Fault2
+159 : Processo 1613098 Pronto -> Exec
+168 : Processo 1612986 HwPF - Executável2
+176 : Processo 1613098 Exec -> Page Fault2
+177 : Processo 1613208 Pronto -> Exec
+186 : Processo 1613098 HwPF - Executável2
+194 : Processo 1613208 Exec -> Page Fault2
+195 : Processo 1613318 Pronto -> Exec
+204 : Processo 1613208 HwPF - Executável2
+212 : Processo 1613318 Exec -> Page Fault2
+213 : Processo 1613430 Pronto -> Exec
+222 : Processo 1613318 HwPF - Executável2
+230 : Processo 1613430 Exec -> Page Fault2
+231 : Processo 1612986 Pronto -> Exec
+240 : Processo 1613430 HwPF - Executável2
+248 : Processo 1612986 Exec -> Page Fault3
+249 : Processo 1613098 Pronto -> Exec
+258 : Processo 1612986 HwPF - Executável3
+266 : Processo 1613098 Exec -> Page Fault3
+267 : Processo 1613208 Pronto -> Exec
+276 : Processo 1613098 HwPF - Executável3
+284 : Processo 1613208 Exec -> Page Fault3
+285 : Processo 1613318 Pronto -> Exec
+294 : Processo 1613208 HwPF - Executável3
+302 : Processo 1613318 Exec -> Page Fault3
+303 : Processo 1613430 Pronto -> Exec
+312 : Processo 1613318 HwPF - Executável3
+320 : Processo 1613430 Exec -> Page Fault3
+321 : Processo 1612986 Pronto -> Exec
+330 : Processo 1613430 HwPF - Executável3

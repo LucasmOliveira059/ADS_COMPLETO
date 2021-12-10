@@ -1,0 +1,141 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+188 : Processo 3815581 alocacao de blocos no pagefile
+188 : Processo 3815581 criado
+188 : Processo 3815706 alocacao de blocos no pagefile
+188 : Processo 3815706 criado
+188 : Processo 3815834 alocacao de blocos no pagefile
+188 : Processo 3815834 criado
+188 : Processo 3815960 alocacao de blocos no pagefile
+188 : Processo 3815960 criado
+189 : Processo 3816086 alocacao de blocos no pagefile
+189 : Processo 3816086 criado
+189 : Processo 3815581 Pronto -> Exec
+190 : Processo 3815581 Exec -> Page Fault0
+191 : Processo 3815706 Pronto -> Exec
+192 : Processo 3815706 Exec -> Page Fault0
+193 : Processo 3815834 Pronto -> Exec
+194 : Processo 3815834 Exec -> Page Fault0
+195 : Processo 3815960 Pronto -> Exec
+196 : Processo 3815960 Exec -> Page Fault0
+197 : Processo 3816086 Pronto -> Exec
+198 : Processo 3816086 Exec -> Page Fault0
+200 : Processo 3815581 Aumento de prioridade +2
+200 : Processo 3815581 nao pode ter inc acima de 15
+200 : Processo 3815581 HwPF - Executável0
+201 : Processo 3815581 Pronto -> Exec
+211 : Processo 3815706 Aumento de prioridade +2
+211 : Processo 3815706 nao pode ter inc acima de 15
+211 : Processo 3815706 HwPF - Executável0
+218 : Processo 3815581 Exec -> Page Fault1
+219 : Processo 3815706 Pronto -> Exec
+222 : Processo 3815834 Aumento de prioridade +2
+222 : Processo 3815834 nao pode ter inc acima de 15
+222 : Processo 3815834 HwPF - Executável0
+233 : Processo 3815960 Aumento de prioridade +2
+233 : Processo 3815960 nao pode ter inc acima de 15
+233 : Processo 3815960 HwPF - Executável0
+236 : Processo 3815706 Exec -> Page Fault1
+237 : Processo 3815834 Pronto -> Exec
+244 : Processo 3816086 Aumento de prioridade +2
+244 : Processo 3816086 nao pode ter inc acima de 15
+244 : Processo 3816086 HwPF - Executável0
+254 : Processo 3815834 Exec -> Page Fault1
+255 : Processo 3815960 Pronto -> Exec
+255 : Processo 3815581 Aumento de prioridade +2
+255 : Processo 3815581 nao pode ter inc acima de 15
+255 : Processo 3815581 HwPF - Executável1
+266 : Processo 3815706 Aumento de prioridade +2
+266 : Processo 3815706 nao pode ter inc acima de 15
+266 : Processo 3815706 HwPF - Executável1
+272 : Processo 3815960 Exec -> Page Fault1
+273 : Processo 3816086 Pronto -> Exec
+277 : Processo 3815834 Aumento de prioridade +2
+277 : Processo 3815834 nao pode ter inc acima de 15
+277 : Processo 3815834 HwPF - Executável1
+288 : Processo 3815960 Aumento de prioridade +2
+288 : Processo 3815960 nao pode ter inc acima de 15
+288 : Processo 3815960 HwPF - Executável1
+290 : Processo 3816086 Exec -> Page Fault1
+291 : Processo 3815581 Pronto -> Exec
+300 : Processo 3816086 Aumento de prioridade +2
+300 : Processo 3816086 nao pode ter inc acima de 15
+300 : Processo 3816086 HwPF - Executável1
+308 : Processo 3815581 Exec -> Page Fault2
+309 : Processo 3815706 Pronto -> Exec
+318 : Processo 3815581 Aumento de prioridade +2
+318 : Processo 3815581 nao pode ter inc acima de 15
+318 : Processo 3815581 HwPF - Executável2
+326 : Processo 3815706 Exec -> Page Fault2
+327 : Processo 3815834 Pronto -> Exec
+336 : Processo 3815706 Aumento de prioridade +2
+336 : Processo 3815706 nao pode ter inc acima de 15
+336 : Processo 3815706 HwPF - Executável2
+344 : Processo 3815834 Exec -> Page Fault2
+345 : Processo 3815960 Pronto -> Exec
+354 : Processo 3815834 Aumento de prioridade +2
+354 : Processo 3815834 nao pode ter inc acima de 15
+354 : Processo 3815834 HwPF - Executável2
+362 : Processo 3815960 Exec -> Page Fault2
+363 : Processo 3816086 Pronto -> Exec
+372 : Processo 3815960 Aumento de prioridade +2
+372 : Processo 3815960 nao pode ter inc acima de 15
+372 : Processo 3815960 HwPF - Executável2
+380 : Processo 3816086 Exec -> Page Fault2
+381 : Processo 3815581 Pronto -> Exec
+390 : Processo 3816086 Aumento de prioridade +2
+390 : Processo 3816086 nao pode ter inc acima de 15
+390 : Processo 3816086 HwPF - Executável2
+398 : Processo 3815581 Exec -> Page Fault3
+399 : Processo 3815706 Pronto -> Exec
+408 : Processo 3815581 Aumento de prioridade +2
+408 : Processo 3815581 nao pode ter inc acima de 15
+408 : Processo 3815581 HwPF - Executável3
+416 : Processo 3815706 Exec -> Page Fault3
+417 : Processo 3815834 Pronto -> Exec
+426 : Processo 3815706 Aumento de prioridade +2
+426 : Processo 3815706 nao pode ter inc acima de 15
+426 : Processo 3815706 HwPF - Executável3
+434 : Processo 3815834 Exec -> Page Fault3
+435 : Processo 3815960 Pronto -> Exec
+444 : Processo 3815834 Aumento de prioridade +2
+444 : Processo 3815834 nao pode ter inc acima de 15
+444 : Processo 3815834 HwPF - Executável3
+452 : Processo 3815960 Exec -> Page Fault3
+453 : Processo 3816086 Pronto -> Exec
+462 : Processo 3815960 Aumento de prioridade +2
+462 : Processo 3815960 nao pode ter inc acima de 15
+462 : Processo 3815960 HwPF - Executável3
+470 : Processo 3816086 Exec -> Page Fault3
+471 : Processo 3815581 Pronto -> Exec
+480 : Processo 3816086 Aumento de prioridade +2
+480 : Processo 3816086 nao pode ter inc acima de 15
+480 : Processo 3816086 HwPF - Executável3
+488 : Processo 3815581 Exec -> Page Fault4
+489 : Processo 3815706 Pronto -> Exec
+498 : Processo 3815581 Aumento de prioridade +2
+498 : Processo 3815581 nao pode ter inc acima de 15
+498 : Processo 3815581 HwPF - Executável4
+506 : Processo 3815706 Exec -> Page Fault4
+507 : Processo 3815834 Pronto -> Exec
+516 : Processo 3815706 Aumento de prioridade +2
+516 : Processo 3815706 nao pode ter inc acima de 15
+516 : Lista de pags livres menor que80%
+516 : Iniciando Swap
+516 : Processo 3815706 page fault outswapped
+517 : Processo 3815706 HwPF - Executável4
+524 : Processo 3815834 Exec -> Page Fault4
+525 : Processo 3815960 Pronto -> Exec
+534 : Processo 3815834 Aumento de prioridade +2
+534 : Processo 3815834 nao pode ter inc acima de 15
+534 : Processo 3815834 HwPF - Executável4
+542 : Processo 3815960 Exec -> Page Fault4
+543 : Processo 3816086 Pronto -> Exec
+552 : Processo 3815960 Aumento de prioridade +2
+552 : Processo 3815960 nao pode ter inc acima de 15
+552 : Processo 3815960 HwPF - Executável4
+560 : Processo 3816086 Exec -> Page Fault4
+561 : Processo 3815581 Pronto -> Exec
+570 : Processo 3816086 Aumento de prioridade +2
+570 : Processo 3816086 nao pode ter inc acima de 15
+570 : Processo 3816086 HwPF - Executável4

@@ -1,0 +1,43 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+128 : Processo 2852980 alocacao de blocos no pagefile
+128 : Processo 2852980 HwPF - Executável0
+128 : Processo 2852980 HwPF - Executável1
+128 : Processo 2852980 HwPF - Executável2
+128 : Processo 2852980 HwPF - Executável3
+128 : Processo 2852980 HwPF - Executável4
+128 : Processo 2852980 criado
+128 : Processo 2853101 alocacao de blocos no pagefile
+128 : Processo 2853101 HwPF - Executável0
+128 : Processo 2853101 HwPF - Executável1
+128 : Processo 2853101 HwPF - Executável2
+128 : Processo 2853101 HwPF - Executável3
+128 : Processo 2853101 HwPF - Executável4
+128 : Processo 2853101 criado
+128 : Processo 2853239 alocacao de blocos no pagefile
+128 : Processo 2853239 HwPF - Executável0
+128 : Processo 2853239 HwPF - Executável1
+128 : Processo 2853239 HwPF - Executável2
+128 : Processo 2853239 HwPF - Executável3
+128 : Processo 2853239 HwPF - Executável4
+128 : Processo 2853239 criado
+128 : Processo 2853379 alocacao de blocos no pagefile
+128 : Processo 2853379 HwPF - Executável0
+128 : Processo 2853379 HwPF - Executável1
+128 : Processo 2853379 HwPF - Executável2
+128 : Processo 2853379 HwPF - Executável3
+128 : Processo 2853379 HwPF - Executável4
+128 : Processo 2853379 criado
+128 : Processo 2853519 alocacao de blocos no pagefile
+128 : Processo 2853519 HwPF - Executável0
+128 : Lista de pags livres menor que80%
+128 : Iniciando Swap
+128 : Processo 2853379 pronto outswapped
+128 : Processo 2853519 HwPF - Executável1
+128 : Processo 2853519 HwPF - Executável2
+128 : Processo 2853519 HwPF - Executável3
+128 : Processo 2853519 HwPF - Executável4
+128 : Processo 2853519 criado
+129 : Processo 2852980 Pronto -> Exec
+299 : Processo 2852980 Executando -> Suspenso
+300 : Processo 2853101 Pronto -> Exec

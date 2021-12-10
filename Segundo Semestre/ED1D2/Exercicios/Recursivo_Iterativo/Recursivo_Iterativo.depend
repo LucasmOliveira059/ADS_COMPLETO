@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1633640972 source:c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\recursivo_iterativo\main.c
+	<stdlib.h>
+	<stdio.h>
+	<locale.h>
+	"arqlib.h"
+
+1633640800 c:\users\usuario\onedrive - ifsp.edu.br\documentos\ads trabalhos\segundo semestre\ed1d2\exercicios\recursivo_iterativo\arqlib.h
+
