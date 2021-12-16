@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1637709292 source:c:\users\elias\documents\github\estruturadedadosexercicios\projetofinal\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1637707581 c:\users\elias\documents\github\estruturadedadosexercicios\projetofinal\listaligada.h
+
+1637708646 source:c:\users\elias\documents\github\estruturadedadosexercicios\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+	<locale.h>
+
+1639017216 source:c:\users\elias\documents\github\projetofinalestruturadedados\projetofinal\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1639013068 c:\users\elias\documents\github\projetofinalestruturadedados\projetofinal\listaligada.h
+
+1639008910 source:c:\users\elias\documents\github\projetofinalestruturadedados\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+	<locale.h>
+
+1639624089 source:c:\users\usuario\desktop\lucas\workspace\projetofinal-elias\projetofinal\listaligada.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+
+1639621877 c:\users\usuario\desktop\lucas\workspace\projetofinal-elias\projetofinal\listaligada.h
+
+1639624064 source:c:\users\usuario\desktop\lucas\workspace\projetofinal-elias\projetofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"listaLigada.h"
+	<locale.h>
+
